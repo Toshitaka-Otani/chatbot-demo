@@ -28,7 +28,7 @@ yarn-error.log*
 # Firebase resources
 .firebaserc
 .firebase
-firestore.rules
+./firestore.rules
 src/webhookConfig.js
 src/firebase/config.js
 src_class/firebase/config.js
